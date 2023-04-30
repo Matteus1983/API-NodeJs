@@ -1,0 +1,49 @@
+NODEJS NÃO É UMA LINGUAGEM DE PROGRAMAÇÃO
+NODEJS ELE É UM AMBIENTE QUE OFERECE RECURSOS QUE PERMITE ESCREVER E EXECUTAR APLICAÇÕES JAVASCRIPT
+HÁ UM TEMPO ATRÁS SÓ ERA POSSÍVEL EXECUTAR JAVASCRIPT NO NAVEGADOR
+AGORA COM O NODEJS TEMOS UM AMBIENTE QUE PODEMOS EXECUTAR JAVASCRIPT FORA DO NAVEGADOR
+SERVE PARA FAZER OQUE VOCÊ QUISER, DESDE SITES A SCRIPTS DE AUTOMAÇÃO, INCLUINDO A CRIAÇÃO DE API
+
+Exemplo: http://localhost:3333/users?page=5&limit=13
+/users = recurso
+? = separador
+page,limit = chave
+= = atribuição
+5,13 = valor
+
+MÉTODOS DE REQUISIÇÕES HTTP VERBS
+GET = LEITURA
+POST = CRIAÇÃO
+PUT = ATUALIZAÇÃO
+DELETE = DELEÇÃO
+PATCH = ATUALIZAÇÃO PARCIAL 
+
+MÉTODOS DE REQUISIÇÕES HTTP VERBS
+GET = LEITURA
+POST = CRIAÇÃO
+PUT = ATUALIZAÇÃO
+DELETE = DELEÇÃO
+PATCH = ATUALIZAÇÃO PARCIAL 
+
+NODEJS NÃO É UMA LINGUAGEM DE PROGRAMAÇÃO
+NODEJS ELE É UM AMBIENTE QUE OFERECE RECURSOS QUE PERMITE ESCREVER E EXECUTAR APLICAÇÕES JAVASCRIPT
+HÁ UM TEMPO ATRÁS SÓ ERA POSSÍVEL EXECUTAR JAVASCRIPT NO NAVEGADOR
+AGORA COM O NODEJS TEMOS UM AMBIENTE QUE PODEMOS EXECUTAR JAVASCRIPT FORA DO NAVEGADOR
+SERVE PARA FAZER OQUE VOCÊ QUISER, DESDE SITES A SCRIPTS DE AUTOMAÇÃO, INCLUINDO A CRIAÇÃO DE API
+
+NPM - Node Package Manager é o gerenciador de pacotes padrão para Node.js, os pacotes e módulos necessários no projeto Node são instalados usando npm. E também utilizados o npm para executar scripts e bibliotecas instaladas
+
+NPM é uma ferramenta que usa para instalar pacotes
+NPX é uma ferramenta que usa para executar pacotes
+
+NPX - Node Package Execute e vem com o npm acima da versão 5.2
+É um executador de pacotes npm que pode executar qualquer pacote que você quiser do registro npm sem sequer instalar esse pacote.
+
+primary key - chave primaria, indentificador único dentro da tabela (id), objetivo é indentificar os registros, para que cada registro tenha seu próprio indentificador. Esse valor não se repita.
+
+foreign key - chave estrangeira, é uma chave que não foi gerada nela, veio de outro local, objetivo é conectar tabelas, vincular um registro com outra informação, ex: uma nota com um usuário.
+
+banco de dados relacional - é um tipo de banco de dados que armazena e fornece acesso a pontos de dados relacionados entre si representado por tabelas, colunas e linhas.
+
+Qual a utilidade de uma Migration ?
+Uma forma de versionar o schema da aplicação controlando as alterações do banco de dados
